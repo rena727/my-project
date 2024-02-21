@@ -1,0 +1,40 @@
+*{
+	font-family: "Poppins", sans-serif;
+}
+
+.task6 div{
+	width: 150px;
+	height: 150px;
+	background: purple;
+	margin:20px ;
+	display: inline-block;
+	margin-left: 50px;
+	border-color: purple;
+
+
+}
+.bir{
+	border-radius: 25px;
+}
+.iki{
+	border-radius: 35px 0px;
+}
+.uc{
+	border-radius: 70px 70px 0px 0px;
+}
+.dord{
+	border-radius: 100% 0px 0px 0px;
+}
+.bes{
+	border-radius: 0px 50%;
+}
+.alti{
+	border-radius: 0px 100%;
+}
+.yeddi{
+border-radius: 100% 100% 0px 100%;
+}
+
+.sekkiz{
+	border-radius:100%;
+}
