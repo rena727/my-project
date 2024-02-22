@@ -1,0 +1,15 @@
+*{
+	font-family: "Poppins", sans-serif;
+}
+
+.task3 div{
+	width: 10%;
+	padding: 5px;
+	background: gray;
+	border-style: solid;
+	font-style: italic;
+
+	}
+	.task3{
+		margin-top: 300px;
+	}
