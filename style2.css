@@ -1,0 +1,59 @@
+*{
+	font-family: "Poppins", sans-serif;
+}
+
+.task2 div{
+	width: 70%;
+	margin:20px auto ;
+	
+	
+}
+.bir{
+	text-align: center;
+	background: rgba(205, 205, 205, 0.42);
+	font-weight: bold;
+	border-style: none;
+}
+.iki{
+	text-align: center;
+	background: rgba(205, 205, 205, 0.42);
+	font-style: italic;
+	border-style: solid ;
+	border-color: blue;
+}
+.uc{
+	text-align: center;
+	background: rgba(205, 205, 205, 0.42);
+	 text-decoration: line-through;
+	border-style: dashed;
+}
+.dord{
+	text-align: center;
+	background: rgba(205, 205, 205, 0.42);
+    text-decoration: overline;
+	border-style: dotted;
+	border-color: gray;
+}
+.bes{
+	text-align: center;
+	background: rgba(205, 205, 205, 0.42);
+    text-decoration: underline;
+	border-style: double;
+	border-color: gray;
+}
+.alti{
+	text-align: center;
+	background: rgba(205, 205, 205, 0.42);
+	border-style: solid;
+	border-color: purple yellow red blue  ;
+	 text-transform: uppercase;
+
+}
+.yeddi{
+	text-align: center;
+	background: rgba(205, 205, 205, 0.42);
+    
+	border-style: none dotted double dashed;
+	border-color: gray purple yellow red ;
+}
+}
