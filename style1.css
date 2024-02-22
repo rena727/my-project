@@ -1,0 +1,30 @@
+*{
+	font-family: "Poppins", sans-serif;
+}
+
+.task1 p{
+	width: 70%;
+	background: #3cc9d6;
+	margin:20px auto ;
+	border: 2px solid gray;
+	
+}
+.bir{
+text-align: left;
+
+}
+
+.iki{
+	text-align: center;
+	
+}
+.uc{
+	text-align:right;
+}
+.dord{
+	text-align: justify;
+}
+.bes{
+	text-align: justify;
+	text-align-last: center;
+}
